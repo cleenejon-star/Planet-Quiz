@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Planet Quiz</string>
-
+    <string name="select_question">Select a question to answer:</string>
     <string name="question_1">What is the largest planet?</string>
     <string name="question_2">Which planet has the most moons?</string>
     <string name="question_3">Which planet spins on its side?</string>
